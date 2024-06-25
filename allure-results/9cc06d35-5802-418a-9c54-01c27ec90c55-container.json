@@ -1,0 +1,1 @@
+{"uuid":"9cc06d35-5802-418a-9c54-01c27ec90c55","name":"System Automation","children":["cd4de31d-5b34-400a-8a96-35cbd5afab52"],"befores":[{"name":"initConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1717604442238,"stop":1717604442250}],"afters":[],"start":1717604442222,"stop":1717604442362}
