@@ -53,5 +53,5 @@ After running the tests, use the following commands to generate and view the All
 <p><strong>allure generate allure-results --clean -output</strong></p>
 <p><strong>allure serve allure-results</strong></p>
 
-## Output of Allure Report
+
 
