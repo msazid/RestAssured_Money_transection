@@ -4,8 +4,13 @@
 <h3>Set up the project for run the Test</h3>
 <p>Follow these steps to configure and execute the automated tests:</p>
 
-<h4>Usage</h4>
-<ol>
-  <li>Navigate to the project directory.</li>
-<li>Install necessary dependencies by executing:</li>
-</ol>
+## Usage
+
+1. Navigate to the project directory.
+
+2. Install necessary dependencies by executing:
+
+    ```
+    gradle clean install
+    ```
+
